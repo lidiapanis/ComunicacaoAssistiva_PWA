@@ -1,3 +1,6 @@
+
+![logo](https://github.com/lidiapanis/ComunicacaoAssistiva_PWA/assets/5346759/7d1c12ee-fb80-47e2-b74d-6bef8558bc1c)
+
 # Instale o create-react-app rodando 
 
 ```bash
